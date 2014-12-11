@@ -20,7 +20,7 @@ Tâche | Durée estimée | personne assignée | Avancement et notes
 1.3 Choix d'une solution définitive (impliquant nécessairement des changements dans l'organisation de la page d'édition des eZoomBooks), en accord avec Christine.  | 1 semaine | Shuli, Ophir, ... | Nécessite d'avoir étudié ce problème dans le cadre du projet d'ANREC. (cf 5.)
 1.4 Implémentation de la solution choisie en 1.3 | 1 mois | Shuli, Ophir, ... | 
 2. **Page d’erreur après la connexion** | 3 semaines | Ophir | Éventuellement beaucoup moins, selon la nature du bug et les choix techniques qui seront effectués
-2.1 Intégrer le dépôt `dev` à l'intérieur du dépôt `EZB_WEB` | 3 jours | Ophir | Solution à étudier. À faire, selon la complexité. Éventuellemnt à discuter avec Mayleen
+2.1 Intégrer le dépôt `dev` à l'intérieur du dépôt `EZB_WEB` | 3 jours | Ophir | Fait, et plus compliqué que prévu (7 heures de travail)
 2.2 Localiser la méthode qui cause le bug | 1 à 2 semaines | Ophir | Temps variable...
 2.3 Corriger le bug | 2 jours | Ophir
 3. **Impossible de supprimer un eZB** | 1 semaine | Bertrand
